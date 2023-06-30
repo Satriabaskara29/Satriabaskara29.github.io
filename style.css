@@ -1,0 +1,642 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: var(--grey-200, #e5e5e5);
+  border-style: solid;
+  border-color: var(--yellow-y-600, #d7d332);
+  border-width: 1px;
+  width: 1440px;
+  height: 4307px;
+  position: relative;
+  overflow: hidden;
+}
+.contact-section {
+  width: 1099px;
+  height: 726px;
+  position: absolute;
+  left: 245px;
+  top: 2634px;
+}
+.rectangle-72 {
+  width: 401px;
+  height: 463px;
+  position: absolute;
+  left: -181px;
+  top: 66px;
+}
+.rectangle-73 {
+  width: 390px;
+  height: 463px;
+  position: absolute;
+  left: 669px;
+  top: 49px;
+}
+.jersey-v-1-idr-200-000-00 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: -181px;
+  top: 564px;
+  width: 592px;
+}
+.gelang-idr-35-000-00 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 680px;
+  top: 1197px;
+  width: 592px;
+}
+.keychain-idr-50-000-00 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: -181px;
+  top: 1197px;
+  width: 592px;
+}
+.jersey-v-2-idr-150-000-00 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 669px;
+  top: 561px;
+  width: 592px;
+}
+.button {
+  background: var(--orange-o-500, #fa7012);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 117px;
+  height: 32px;
+  position: absolute;
+  left: 907px;
+  top: 582px;
+}
+.kirim-pesan {
+  color: var(
+    --white-100,
+    linear-gradient(to left, #f2f2f2, #f2f2f2),
+    linear-gradient(to left, #f2f2f2, #f2f2f2)
+  );
+  text-align: center;
+  font: var(--button-16, 400 12px/16px "Inter", sans-serif);
+  position: relative;
+}
+.rectangle-97 {
+  width: 390px;
+  height: 454px;
+  position: absolute;
+  left: 669px;
+  top: 726px;
+}
+.rectangle-96 {
+  width: 408px;
+  height: 451px;
+  position: absolute;
+  left: 57px;
+  top: 3344px;
+}
+.button2 {
+  background: var(--orange-o-500, #fa7012);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 117px;
+  height: 32px;
+  position: absolute;
+  left: 311px;
+  top: 3219px;
+}
+.ererki-merchandise {
+  color: var(--orange-o-800, #912606);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 450px);
+  top: 2554px;
+  width: 876px;
+  height: 80px;
+}
+.product-section {
+  width: 1065px;
+  height: 789px;
+  position: absolute;
+  left: 188px;
+  top: 1662px;
+}
+.story-team {
+  color: var(--orange-o-800, #912606);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - -79.5px);
+  top: 32px;
+  width: 473px;
+  height: 346px;
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 612px;
+  top: 133px;
+  width: 592px;
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019-span {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019-span2 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019-span3 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019-span4 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-ketiga-dari-rrq-epic-di-divisi-point-blank-memenangkan-point-blank-word-championsip-2019-rusia-keempat-rrq-athena-bersama-rrq-kenboo-juga-kembali-memenangkan-pubg-mobile-star-challenge-2019-span5 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 612px;
+  top: 133px;
+  width: 592px;
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-span {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-span2 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.pertama-dari-divisi-point-blank-rrq-endeavor-menyumbang-satu-bintang-setelah-menjuarai-point-blank-international-championship-pbic-2017-kedua-rrq-athena-yang-merupakan-tim-pubg-mobile-asal-thailand-menyumbang-satu-bintang-pada-2018-dari-turnamen-pubg-mobile-star-challenge-span3 {
+  color: #000000;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+}
+.rectangle-68 {
+  width: 462px;
+  height: 646px;
+  position: absolute;
+  left: -200px;
+  top: 111px;
+}
+.rectangle-69 {
+  width: 310px;
+  height: 285px;
+  position: absolute;
+  left: 279px;
+  top: 112px;
+}
+.rectangle-70 {
+  width: 314px;
+  height: 341px;
+  position: absolute;
+  left: 279px;
+  top: 415px;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.frame-12 {
+  background: #f0a500;
+  border-radius: 25px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - -189.65px);
+  top: calc(50% - -321.5px);
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 5.69px);
+  top: calc(50% - 14.5px);
+}
+.frame-13 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #f0a500;
+  border-width: 1px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - -260.81px);
+  top: calc(50% - -321.5px);
+}
+._2 {
+  color: #f0a500;
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 7.69px);
+  top: calc(50% - 15px);
+}
+.frame-14 {
+  background: #ffffff;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #f0a500;
+  border-width: 1px;
+  padding: 10px 17px 10px 17px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: calc(50% - -331.96px);
+  top: calc(50% - -321.5px);
+}
+._3 {
+  color: #f0a500;
+  text-align: left;
+  font: 700 24px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 7.69px);
+  top: calc(50% - 15px);
+}
+.frame-16 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #b2b2b2;
+  border-width: 1px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: 651px;
+  top: 716px;
+}
+.keyboard-backspace {
+  position: absolute;
+  left: 11px;
+  top: 11px;
+  overflow: visible;
+}
+.frame-17 {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: var(--yellow-y-900, #77750e);
+  border-width: 1px;
+  width: 57.38px;
+  height: 54px;
+  position: absolute;
+  left: 993px;
+  top: 770px;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+}
+.keyboard-backspace2 {
+  position: absolute;
+  left: 11px;
+  top: 11px;
+  overflow: visible;
+}
+.about-section {
+  width: 1035px;
+  height: 683px;
+  position: absolute;
+  left: 242px;
+  top: 876px;
+}
+.about-us {
+  color: var(--orange-o-800, #912606);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 246.5px);
+  top: 0px;
+  width: 676px;
+  height: 80px;
+}
+.founded-in-october-2013-rex-regum-qeon-rrq-was-born-by-combining-the-best-indonesian-dot-a-players-who-were-already-well-known-in-the-international-gaming-community-by-the-end-of-2017-rex-regum-began-expanding-into-other-games-such-as-the-popular-fps-game-point-blank-and-then-to-the-highly-successful-mobile-game-mobile-legends-bang-bang-now-team-rrq-has-expanded-over-8-game-divisions-including-free-fire-fifa-apex-legends-pubg-and-pubgm-by-acquiring-some-of-the-best-talents-from-not-only-in-indonesia-but-regionally {
+  color: #000000;
+  text-align: left;
+  font: var(--title-1-36, 500 36px/40px "Inter", sans-serif);
+  position: absolute;
+  left: -176px;
+  top: 130px;
+  width: 755px;
+}
+.be-a-leading-e-sports-organization-in-south-east-asia-by-building-a-brand-and-professional-teams-consisting-of-highly-passionate-and-skillfull-individuals-that-want-to-showcase-their-potential-to-the-world {
+  color: #000000;
+  text-align: left;
+  font: var(--title-1-36, 500 36px/40px "Inter", sans-serif);
+  position: absolute;
+  left: 431px;
+  top: -472px;
+  width: 755px;
+}
+.our-goals {
+  color: var(--orange-o-800, #912606);
+  text-align: left;
+  font: 700 70px/100% "Outfit", sans-serif;
+  position: absolute;
+  left: calc(50% - 35px);
+  top: 284px;
+  width: 676px;
+  height: 80px;
+}
+.rectangle-65 {
+  width: 597px;
+  height: 480px;
+  position: absolute;
+  left: 17px;
+  top: 284px;
+}
+.rectangle-66 {
+  width: 565px;
+  height: 577px;
+  position: absolute;
+  left: 863px;
+  top: 989px;
+}
+.pada-2020-rex-regum-qeon-memenangkan-berbagai-penghargaan-bagi-pelaku-industri-esports-indonesia-rex-regum-qeon-menjadi-pro-team-esports-terfavorit-di-indonesian-esports-awards-2020-rex-regum-qeon-juga-terpilih-menjadi-the-most-favorite-esports-team-of-the-year-di-indonesia-gaming-awards-2020-serta-sebagai-esports-team-of-the-year-dalam-supergamer-fest-2020 {
+  color: #000000;
+  text-align: left;
+  font: var(--title-2-24, 500 24px/24px "Inter", sans-serif);
+  position: absolute;
+  left: 794px;
+  top: 2098px;
+  width: 592px;
+}
+.rectangle-71 {
+  background: var(--orange-o-900, #771802);
+  width: 1440px;
+  height: 322px;
+  position: absolute;
+  left: 16px;
+  top: 3998px;
+}
+.information {
+  color: #ffffff;
+  text-align: left;
+  font: 600 30px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1058px;
+  top: 4047px;
+}
+.terms-and-condition-new-products-best-sellers-contact-us {
+  color: #ffffff;
+  text-align: left;
+  font: 300 20px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1047px;
+  top: 4113px;
+  width: 525px;
+}
+.terms-and-condition-new-products-best-sellers-contact-us-span {
+  color: #ffffff;
+  font: 300 20px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+}
+.terms-and-condition-new-products-best-sellers-contact-us-span2 {
+  color: #ffffff;
+  font: 300 20px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+}
+.terms-and-condition-new-products-best-sellers-contact-us-span3 {
+  color: #ffffff;
+  font: 300 20px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+}
+.terms-and-condition-new-products-best-sellers-contact-us-span4 {
+  color: #ffffff;
+  font: 300 20px/37px "Poppins", sans-serif;
+  text-decoration: underline;
+}
+.instagram-logo-2016-1 {
+  width: 60px;
+  height: 61.56px;
+  position: absolute;
+  left: 133px;
+  top: 4220px;
+}
+.ererki-adalah-tim-esport-yang-berasal-dari-indonesia-sudah-berkali-kali-memenangkan-kejuaraan-internastional {
+  color: #ffffff;
+  text-align: left;
+  font: 300 20px/37px "Poppins", sans-serif;
+  position: absolute;
+  left: 105px;
+  top: 4096px;
+  width: 495px;
+}
+.vector3 {
+  position: absolute;
+  left: 12px;
+  top: 3992px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 77.27px;
+  top: 4071.29px;
+  overflow: visible;
+}
+.vector5 {
+  position: absolute;
+  left: 67.88px;
+  top: 4084.9px;
+  overflow: visible;
+}
+.vector6 {
+  position: absolute;
+  left: 49.61px;
+  top: 4092.59px;
+  overflow: visible;
+}
+.vector7 {
+  position: absolute;
+  left: 27.48px;
+  top: 4084.66px;
+  overflow: visible;
+}
+.vector8 {
+  position: absolute;
+  left: 14.69px;
+  top: 4071.25px;
+  overflow: visible;
+}
+.ererki-kingdom {
+  color: #000000;
+  text-align: left;
+  font: 800 48px "Inter", sans-serif;
+  position: absolute;
+  left: 133.4px;
+  top: 4045.36px;
+  width: 489.6px;
+  height: 89.64px;
+}
+.tiktok-5962992-1280-2 {
+  width: 60px;
+  height: 59px;
+  position: absolute;
+  left: 230px;
+  top: 4224px;
+}
+.youtube-logo-hd-8-2 {
+  width: 60px;
+  height: 43px;
+  position: absolute;
+  left: 318px;
+  top: 4232px;
+}
+.rectangle-83 {
+  background: var(--orange-o-900, #771802);
+  width: 1440px;
+  height: 174px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+}
+.profil-ceo {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 593px;
+  top: 91px;
+}
+.testimoni {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 1276px;
+  top: 91px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 1054px;
+  top: 94px;
+}
+.divisions {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Outfit", sans-serif;
+  position: absolute;
+  left: 826px;
+  top: 94px;
+}
+.beranda {
+  color: #ffffff;
+  text-align: left;
+  font: var(--title-1-36, 500 36px/40px "Inter", sans-serif);
+  position: absolute;
+  left: 360px;
+  top: 83px;
+}
+.button3 {
+  background: var(--orange-o-500, #fa7012);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 117px;
+  height: 32px;
+  position: absolute;
+  left: 311px;
+  top: 3836px;
+}
+.button4 {
+  background: var(--orange-o-500, #fa7012);
+  border-radius: 8px;
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 117px;
+  height: 32px;
+  position: absolute;
+  left: 1168px;
+  top: 3844px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.vector9 {
+  position: absolute;
+  left: 17px;
+  top: 0px;
+  overflow: visible;
+}
+.vector10 {
+  position: absolute;
+  left: 56.84px;
+  top: 77.63px;
+  overflow: visible;
+}
+.vector11 {
+  position: absolute;
+  left: 51.11px;
+  top: 90.95px;
+  overflow: visible;
+}
+.vector12 {
+  position: absolute;
+  left: 39.96px;
+  top: 98.48px;
+  overflow: visible;
+}
+.vector13 {
+  position: absolute;
+  left: 26.45px;
+  top: 90.71px;
+  overflow: visible;
+}
+.vector14 {
+  position: absolute;
+  left: 18.64px;
+  top: 77.59px;
+  overflow: visible;
+}
+.ererki-kingdom2 {
+  color: #000000;
+  text-align: left;
+  font: 800 48px "Inter", sans-serif;
+  position: absolute;
+  left: 91.11px;
+  top: 52.24px;
+  width: 298.89px;
+  height: 87.76px;
+}
